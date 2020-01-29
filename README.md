@@ -1,2 +1,2 @@
-# Tower-of-hanoi-Solver-
+# Tower-of-hanoi (Solver)
 C++ QT application to visualize the solutions of tower of hanoi game
